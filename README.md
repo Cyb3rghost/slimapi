@@ -1,6 +1,7 @@
 # Slim Framework 3 Skeleton Application
 
-Téléchargez le framework (la version 3) sur le site : https://www.slimframework.com/
+Nous allons utilisez le framework SLIM pour créer une API REST rapidement et simplement.
+Téléchargez le framework (la version 3) sur le site : https://www.slimframework.com/  
 Tapez : composer update pour effectuer la mise à jour.
 
 ## Création d'un hôte virtuel sous XAMPP
